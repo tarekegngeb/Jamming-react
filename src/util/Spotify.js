@@ -1,5 +1,5 @@
-const clientId = 'e25612ba48364e3ea6250c406be2ef6c';
-const redirectUri = 'http://angry-fan.surge.sh';
+const clientId = '';
+const redirectUri = '';
 
 
 let accessToken;
